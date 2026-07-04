@@ -1,6 +1,6 @@
 import PortfolioSection from "../components/PortfolioSection";
 
-function Portfolio() {
+function portfolio() {
   return (
     <main>
       <PortfolioSection />
@@ -8,4 +8,4 @@ function Portfolio() {
   );
 }
 
-export default Portfolio;
+export default portfolio;

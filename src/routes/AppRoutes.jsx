@@ -5,7 +5,7 @@ import MainLayout from "../layouts/MainLayout";
 import Home from "../pages/Home";
 import About from "../pages/About";
 import Resume from "../pages/Resume";
-import Portfolio from "../pages/Portfolio";
+import Portfolio from "../pages/Portfolio.jsx";
 import Blog from "../pages/Blog";
 import Contact from "../pages/Contact";
 
